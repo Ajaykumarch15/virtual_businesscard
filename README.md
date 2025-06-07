@@ -59,8 +59,8 @@ virtual-business-card/
 
 **Ajay Ch**  
 🎓 B.Tech CSE | 💻 Aspiring Software Engineer  
-📧 [ajaych123@email.com](mailto:ajaych123@email.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ajaych)
+📧 [ajaych123@email.com](mailto:ajaykumarchodipilli15@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ajay-ch-3ba8b7259/)
 
 ---
 
